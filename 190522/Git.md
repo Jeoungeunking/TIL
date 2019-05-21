@@ -7,7 +7,9 @@ Git 사용및 명령어 정리
 ```
 git init
 git add
-git 
+git status
+git commit -m
+git push -u origin master
 ```
 
 
